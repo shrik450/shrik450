@@ -1,8 +1,6 @@
 # Welcome to my GitHub page!
 
-if you're here, it's *probably* because you scanned the QR code on my resume. Thank you for your interest! 
-
-To recap: I'm a Masters of Engineering in Computer Science student at [Virginia Tech](https://vt.edu/), and I'm looking for internships for Summer 2023. I'm available May through August 2023. [Here's my LinkedIn Account,](https://www.linkedin.com/in/shrikup/) which contains most of the same stuff as in my resume. If you'd like to connect and don't have my email/number, please send me a connection request on LinkedIn!
+I'm a Masters of Engineering in Computer Science student at [Virginia Tech](https://vt.edu/), and I'm looking for internships for Summer 2023. I'm available May through August 2023. [Here's my LinkedIn Account,](https://www.linkedin.com/in/shrikup/) which contains most of the same stuff as in my resume. If you'd like to connect and don't have my email/number, please send me a connection request on LinkedIn!
 
 Some stuff that isn't resume-worthy, but still describes me:
 
